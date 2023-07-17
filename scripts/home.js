@@ -1,5 +1,5 @@
 
-let URL = "http://localhost:8080"
+let URL = "https://quiz-app-mock-5-atir.onrender.com"
 let loader = document.querySelector(".spin-container")
 
 let form = document.querySelector("form")
